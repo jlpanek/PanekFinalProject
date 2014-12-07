@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PanekFinalProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scan_item">ScanItem</string>
+    <string name="title_activity_view_cart">viewCart</string>
+    <string name="title_activity_checkout">Checkout</string>
+
+    <string name="panekfinal_appName">Shopping Cart Application</string>
+    <string name="panekfinal_cartItemsLabel">Items:</string>
+    <string name="panekfinal_cartItems">0</string>
+    <string name="panekfinal_price">$0.00</string>
+    <string name="panekfinal_scanNewItem">Scan New Item</string>
+    <string name="panekfinal_viewCart">View Cart</string>
+    <string name="panekfinal_checkout">Checkout</string>
+    <string name="panekfinal_homeButton">Home</string>
+    <string name="panekfinal_scanButton">Scan</string>
+
+</resources>
